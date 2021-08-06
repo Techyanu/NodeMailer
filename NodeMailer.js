@@ -15,8 +15,7 @@ var mailOptions = {
     from: 'yourmail@gmail.com',
     to: 'testMail@gmail.com',
     subject: 'Sending Email using Node.js',
-    text: `Hi Smartherd, thank you for your nice Node.js tutorials.
-          I will donate 50$ for this course. Please send me payment options.`,
+    text: `hello this is a ddemo mail sending project for your understand.`,
     html: `<!DOCTYPE html>
     <html lang="en">
     
